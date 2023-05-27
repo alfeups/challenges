@@ -1,4 +1,4 @@
-package main.tqikotlin;
+package main.dio.tqikotlin;
 
 import java.util.Scanner;
 
