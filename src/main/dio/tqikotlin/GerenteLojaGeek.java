@@ -10,7 +10,7 @@ public class GerenteLojaGeek {
 
         if(media >= 7){
             System.out.println("APR");
-        } else if(media > 5 || media < 7){
+        } else if(media > 5 && media < 7){
             System.out.println("MED");
         } else if(media <= 5){
             System.out.println("REP");
