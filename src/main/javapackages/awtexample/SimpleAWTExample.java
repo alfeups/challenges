@@ -14,6 +14,7 @@ public class SimpleAWTExample {
 
         frame.add(button);
 
+
         frame.addWindowListener(new WindowAdapter() {
             public void windowClosing(WindowEvent e) {
                 System.exit(0);
@@ -25,6 +26,7 @@ public class SimpleAWTExample {
 
         frame.setSize(300, 300);
         frame.setVisible(true);
+
 
         button.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
