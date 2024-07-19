@@ -1,4 +1,4 @@
-package main;
+package main.hackerrank.creditcard;
 
 public class CreditCard {
     // Instance variables:
